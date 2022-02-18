@@ -20,5 +20,20 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit7195&show_icons=true&locale=en&layout=compact" alt="sumit7195" /></p>
 
-<a   href="https://google.com" target="_blank"> google  </a>
+## &#x1f4c8; GitHub Stats
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sumit7195&show_icons=true&theme=gotham" alt="Sumit" width = "45%" />
+  <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit7195&custom_title=Most Used  Languages&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Sumit" width = "45%"/>
+  <br/>
+<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
+  </p>
+ <br>
+ 
+## :fire: Streak Stats
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit7195&theme=algolia" alt="Sumit" /> </p>
+  <summary><b>:zap: Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/sumit7195"><img alt="Sumit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sumit7195&custom_title=sumit_kumar's%20Contribution%20Graph&theme=react-dark" /></a>
+</br>
+
+
 
