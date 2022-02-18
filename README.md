@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumit kumar</h1>
 <h3 align="center">A passionate Full stack WebDeveloper</h3>
-
+<p align="center"> <img src="https://cdn.dribbble.com/users/3484830/screenshots/16787618/media/b134e73ef667b926c76d8ce3f962dba2.gif" />   </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit7195&label=Profile%20views&color=0e75b6&style=flat" alt="sumit7195" /> </p>
 
 - 🔭 I’have worked on [Pepperfry.com](https://pepperfryclonemasai.herokuapp.com/#loaded)
